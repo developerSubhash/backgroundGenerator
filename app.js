@@ -663,7 +663,3 @@ const something = ";";
 const newdine = {
   ne: "soeh",
 };
-
-const justify = {
-  justify.for :" na,e"
-}
